@@ -88,6 +88,8 @@ DELETE → Clears the stored value
 ```
 ## 📸 Preview
 
+![App Preview](CRUD-redux-Logger.gif)
+
 ---
 
 ## 🔍 Learning Outcomes
