@@ -88,7 +88,7 @@ DELETE → Clears the stored value
 ```
 ## 📸 Preview
 
-![App Preview](CRUD-redux-Logger.gif)
+![App Preview](./CRUD-redux-Logger.gif)
 
 ---
 
